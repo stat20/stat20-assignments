@@ -1,0 +1,70 @@
+---
+title: "Lab 1: Arbuthnot"
+author: Firstname Lastname
+---
+
+The first several questions pertain to the `arbuthnot` data frame found in `library(stat20data)`.
+
+```{r}
+#| message: false
+#| echo: false
+
+library(tidyverse)
+library(stat20data)
+```
+
+
+#### Question 1
+What is the time frame covered by Arbuthnot's data?
+
+#### Question 2
+Which year saw the greatest number of children christened?
+
+```{r}
+
+```
+
+#### Question 3
+What is the proportion of girls christened in 1700?
+
+```{r}
+
+```
+
+
+#### Question 4
+What is the trend over time in the total number of children christened? Please answer with a plot and written interpretation.
+
+
+
+```{r}
+
+```
+
+
+#### Question 5
+What is the trend over time in the proportion of girls christened? Please answer with a plot and written interpretation.
+
+```{r}
+
+```
+
+
+The remaining questions pertain to the `present` data frame found in `library(stat20data)`.
+
+#### Question 6
+What is the time frame covered by the present-day data?
+
+#### Question 7
+In terms of general magnitude (size), how do the counts in Arbuthnot's data compare to the counts in the present-day data?
+
+#### Question 8
+What is the trend over time in the proportion of births that are girls? Please answer with a plot and written interpretation.
+
+```{r}
+
+```
+
+
+#### Question 9
+Based on these two data sets, what claim are you prepared to make regarding John Arbuthnot's original question? What reservations, if any, do you have about using this data to make the claim?
